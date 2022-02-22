@@ -1,0 +1,14 @@
+# payment_calc_msgs.yml
+
+welcome: "Welcome to the Payment Calculator.
+\nThis program will calculate your monthly payment amount for your loan. 
+\nYou'll need the original loan amount, the APR, and the loan duration in years. 
+\nPlease follow any responses with the [Enter] key.\n\n"
+
+get_loan_amt: "=> Please enter the original loan amount: "
+get_apr: "=> Please enter the annual percentage rate: "
+get_loan_dur: "=> Please enter the duration of the loan, in years: "
+
+invalid_num: "That doesn't look like a valid number. Let's try again."
+
+calculating: "Calculating..."
